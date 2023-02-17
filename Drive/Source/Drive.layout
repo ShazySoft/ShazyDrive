@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="headers/containers.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1252" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="14" />
+			<Collapse line="21" />
+			<Collapse line="25" />
+			<Collapse line="35" />
+			<Collapse line="41" />
+			<Collapse line="48" />
+			<Collapse line="54" />
+		</Folding>
+	</File>
+	<File name="headers/classes.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="74" topLine="403" />
+		</Cursor>
+		<Folding>
+			<Collapse line="384" />
+		</Folding>
+	</File>
+	<File name="headers/enums.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="206" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="headers/variables.h" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="779" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="106" />
+			<Collapse line="115" />
+		</Folding>
+	</File>
+	<File name="headers/class_functions.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="204" topLine="1776" />
+		</Cursor>
+	</File>
+	<File name="headers/general_functions.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10524" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="26" />
+			<Collapse line="30" />
+			<Collapse line="34" />
+			<Collapse line="38" />
+			<Collapse line="48" />
+			<Collapse line="58" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6208" topLine="198" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

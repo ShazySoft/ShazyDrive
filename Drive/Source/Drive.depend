@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1570191860 source:/home/brooklyn/Programming/Drive/Source/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string>
+	<time.h>
+	<fstream>
+	<iostream>
+	<memory>
+	<vector>
+	<map>
+	<unordered_map>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"headers/variables.h"
+	"headers/enums.h"
+	"headers/classes.h"
+	"headers/containers.h"
+	"headers/general_functions.h"
+	"headers/class_functions.h"
+
+1672938404 /home/brooklyn/Programming/Drive/Source/headers/variables.h
+
+1570123270 /home/brooklyn/Programming/Drive/Source/headers/enums.h
+
+1570138506 /home/brooklyn/Programming/Drive/Source/headers/classes.h
+
+1570138506 /home/brooklyn/Programming/Drive/Source/headers/containers.h
+
+1570138506 /home/brooklyn/Programming/Drive/Source/headers/general_functions.h
+
+1570642665 /home/brooklyn/Programming/Drive/Source/headers/class_functions.h
+
